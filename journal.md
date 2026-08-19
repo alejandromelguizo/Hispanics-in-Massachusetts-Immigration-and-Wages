@@ -8,7 +8,7 @@
     - decided on main variables to use
       - sex, educ, employment_status, usual hourse worked, <mark> years since immig, age at immig(?) </mark> , race, hispanic origin, citizenship status
           - these regressors are on log_wages
-          - not sure if I should include both years since immig, and age at immig in the same regression, I am running into some multi-collinearity problems. 
+          - <mark>not sure if I should include both years since immig, and age at immig in the same regression, I am running into some multi-collinearity problems. </mark>
 
 - considering adding interaction variables like (sex X educ), or (sex X hispanic origin)
 
