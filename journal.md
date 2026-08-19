@@ -13,6 +13,6 @@
 - considering adding interaction variables like (sex X educ), or (sex X hispanic origin)
 
 TO-DO (8/20/26)
-- [] continue refining regressions
-- [] re-code race, consider using non-linear regressors (age at immig squared, years since immig squared?)
-- [] code and include interaction variables
+- [ ] continue refining regressions
+- [ ] re-code race, consider using non-linear regressors (age at immig squared, years since immig squared?)
+- [ ] code and include interaction variables
