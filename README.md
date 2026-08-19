@@ -1,5 +1,5 @@
 # Hispanics-in-Massachusetts-Immigration-and-Wages
-continuation of Econometrics final project, adapting it to my work here in the Gaston Institute. 
+continuation of Econometrics final project, adapting it to my work here at the Gaston Institute. 
 
 # DATA
 Data is from IPUMS, CPS data from 2000 - 2025 including 37 variables, and multiple variables constructed in data cleaning files. 
