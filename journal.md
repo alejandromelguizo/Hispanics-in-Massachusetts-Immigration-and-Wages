@@ -1,4 +1,4 @@
-8/19
+## 8/19
 - added US_educ
     - if age at immig <= 17 & educ_level >= bachelors then US_educ = 1
     - basically checks if you got higher ed here in the US (which I assume would be a positive correlation with Wages as compared to omitted category)
@@ -7,9 +7,8 @@
     - made one for MA hispanics, and one for all of US hispanics
     - decided on main variables to use
       - sex, educ, employment_status, usual hourse worked, years since immig, age at immig(?), race, hispanic origin, citizenship status
-    - these regressors are on log_wages
-
-- not sure if I should include both years since immig, and age at immig in the same regression, I am running into some multi-collinearity problems. 
+            - these regressors are on log_wages
+          - not sure if I should include both years since immig, and age at immig in the same regression, I am running into some multi-collinearity problems. 
 
 - considering adding interaction variables like (sex X educ), or (sex X hispanic origin)
 
