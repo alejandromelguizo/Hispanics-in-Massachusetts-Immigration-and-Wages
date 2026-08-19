@@ -6,7 +6,7 @@
 - began basic regressions modeling
     - made one for MA hispanics, and one for all of US hispanics
     - decided on main variables to use
-      - sex, educ, employment_status, usual hourse worked, <mark> years since immig, age at immig(?) <mark/> , race, hispanic origin, citizenship status
+      - sex, educ, employment_status, usual hourse worked, <mark> years since immig, age at immig(?) </mark> , race, hispanic origin, citizenship status
           - these regressors are on log_wages
           - not sure if I should include both years since immig, and age at immig in the same regression, I am running into some multi-collinearity problems. 
 
