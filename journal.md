@@ -22,4 +22,9 @@
 - began coding interaction variables
 - cont. tmr
 
+### TO-DO (8/25/26)
+- [ ] continue regressions
+    - [ ] include interaction variables, and new re-coded race var
+    - [ ] consider including non-linear regressors
+- [ ] email economics professor for feedback
 
