@@ -23,8 +23,12 @@
 - cont. tmr
 
 ### TO-DO (8/25/26)
-- [ ] continue regressions
-    - [ ] include interaction variables, and new re-coded race var
-    - [ ] consider including non-linear regressors
-- [ ] email economics professor for feedback
+- [x] continue regressions
+    - [x] include interaction variables, and new re-coded race var
+    - [x] consider including non-linear regressors
+- [x] email economics professor for feedback
 
+- I am thinking that my variables of interest for this project are:
+    - Hispanic origin, Age at Immig. or years since immig, and sex.
+ 
+  
