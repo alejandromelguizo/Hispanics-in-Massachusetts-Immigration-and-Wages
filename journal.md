@@ -49,5 +49,9 @@
 
 ### Began Multi-collinearity work
 - used VIF method to find that AGE, YSI, CITIZEN, and EMPSTAT features have high VIF factor scores.
+- used corr. index (**see corr_index.pdf**)
+    - decided to remove UHRSWRKT bc of corr. with EMPSTAT
+    - found corr. between educ and US_educ
+    - 
 
   
