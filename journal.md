@@ -32,7 +32,7 @@
 - I am thinking that my variables of interest for this project are:
     - Hispanic origin, Age at Immig. or years since immig, and sex.
  
-- regression_v1_draft coefficient of interest interpretation so far:
+### Regression_v1_draft coefficient of interest interpretation so far:
     - <mark>YSI: A 1 year increase in years since immigration changes wages by 0.92%, significant at the 1% level. </mark>
     - Hispanic origin:
         - Being Dominican (T4) is associated with a 5% decrease in wages as compared to Mexican omitted category.
