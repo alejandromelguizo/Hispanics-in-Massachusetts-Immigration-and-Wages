@@ -46,5 +46,8 @@
 ### Questions:
 - Is a 0.92% increase in wages per year since immigration economically significant or normal?
 - 
- 
+
+### Began Multi-collinearity work
+- used VIF method to find that AGE, YSI, CITIZEN, and EMPSTAT features have high VIF factor scores.
+
   
