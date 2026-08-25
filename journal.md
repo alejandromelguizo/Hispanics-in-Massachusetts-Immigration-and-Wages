@@ -33,13 +33,13 @@
     - Hispanic origin, Age at Immig. or years since immig, and sex.
  
 ### Regression_v1_draft coefficient of interest interpretation so far:
-    - <mark>YSI: A 1 year increase in years since immigration changes wages by 0.92%, significant at the 1% level. </mark>
-    - Hispanic origin:
-        - Being Dominican (T4) is associated with a 5% decrease in wages as compared to Mexican omitted category.
-        - Being South American (T7) is associated with a 4.68% increase in wages as compared to Mexican omitted category.
-        - Being "Other Hispanic" (T8) is associated with a 10.15% increase in wages as compared to Mexican omitted category. 
-        - (comparison group is Mexicans) (groups 4, 7 & 8 are significant at the 1% level) 
-    - sex: Being female is associated with a 50.65% decrease in wages as compared to male respondents, significant at the 1% level.
+- <mark>YSI: A 1 year increase in years since immigration changes wages by 0.92%, significant at the 1% level. </mark>
+- Hispanic origin:
+   - Being Dominican (T4) is associated with a 5% decrease in wages as compared to Mexican omitted category.
+    - Being South American (T7) is associated with a 4.68% increase in wages as compared to Mexican omitted category.
+    - Being "Other Hispanic" (T8) is associated with a 10.15% increase in wages as compared to Mexican omitted category. 
+    - (comparison group is Mexicans) (groups 4, 7 & 8 are significant at the 1% level) 
+- sex: Being female is associated with a 50.65% decrease in wages as compared to male respondents, significant at the 1% level.
  
 - updated regression by omitting NA/IDK respondents to Hispanic question. 
  
