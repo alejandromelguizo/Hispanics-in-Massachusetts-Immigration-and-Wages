@@ -22,6 +22,7 @@
 - began coding interaction variables
 - cont. tmr
 
+## 8/25
 ### TO-DO (8/25/26)
 - [x] continue regressions
     - [x] include interaction variables, and new re-coded race var
