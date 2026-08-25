@@ -38,9 +38,13 @@
    - Being Dominican (T4) is associated with a 5.16% decrease in wages as compared to Mexican omitted category.
     - Being South American (T7) is associated with a 4.79% increase in wages as compared to Mexican omitted category.
     - Being "Other Hispanic" (T8) is associated with a 10.68% increase in wages as compared to Mexican omitted category. 
-        - (comparison group is Mexicans) (groups 4, 7 & 8 are significant at the 1% level) 
+        - (comparison group is Mexicans) (groups 4, 7 & 8 are significant at the 1% level) (holding all else constant!)
 - **sex**: Being female is associated with a 39.74% decrease in wages as compared to male respondents, significant at the 1% level.
  
-- updated regression by omitting NA/IDK respondents to Hispanic question. 
+- updated regression by omitting NA/IDK respondents to Hispanic question.
+
+### Questions:
+- Is a 0.92% increase in wages per year since immigration economically significant or normal?
+- 
  
   
