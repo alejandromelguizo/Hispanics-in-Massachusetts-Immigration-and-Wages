@@ -65,6 +65,7 @@
 - When I lowered the variables, the high conditional value fell. R_squared fell as well
 - Going to slowly add other variables to see where the cut-off is
 
+- I added folders to this GitHub for better organization
 
 ### TO-DO
 - [ ] add variables one at a time to keep track of multi-collinearity
