@@ -62,4 +62,4 @@
 ## 8/27/26
 - since AGE and YSI are highly colinear; what happens if I remove AGE var?
 
-- When I lowered the variables the high conditional value fell. R_squared fell as well
+- When I lowered the variables, the high conditional value fell. R_squared fell as well
