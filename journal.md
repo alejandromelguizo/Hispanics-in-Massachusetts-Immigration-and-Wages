@@ -54,11 +54,12 @@
     - found corr. between educ and US_educ
     - 
 ### TO-DO (8/27/26)
-- [ ] Work further on how to resolve correlation issues
-    - [ ] US_educ & educ
-    - [ ] CITIZEN & YSI
-    - [ ] AGE & YSI
+- [x] Work further on how to resolve correlation issues
+    - [x] US_educ & educ
+    - [x] CITIZEN & YSI
+    - [x] AGE & YSI
      
 ## 8/27/26
 - since AGE and YSI are highly colinear; what happens if I remove AGE var?
-- 
+
+- When I lowered the variables the high conditional value fell. R_squared fell as well
