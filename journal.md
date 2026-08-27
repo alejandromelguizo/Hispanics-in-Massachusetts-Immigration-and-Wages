@@ -60,4 +60,5 @@
     - [ ] AGE & YSI
      
 ## 8/27/26
-
+- since AGE and YSI are highly colinear; what happens if I remove AGE var?
+- 
