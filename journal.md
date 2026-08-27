@@ -53,8 +53,11 @@
     - decided to remove UHRSWRKT bc of corr. with EMPSTAT
     - found corr. between educ and US_educ
     - 
-### TO-DO (8/26/26)
+### TO-DO (8/27/26)
 - [ ] Work further on how to resolve correlation issues
     - [ ] US_educ & educ
     - [ ] CITIZEN & YSI
     - [ ] AGE & YSI
+     
+## 8/27/26
+
