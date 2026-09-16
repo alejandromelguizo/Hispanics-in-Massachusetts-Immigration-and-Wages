@@ -69,3 +69,6 @@
 
 ### TO-DO
 - [ ] add variables one at a time to keep track of multi-collinearity
+
+## 9/16/26
+- I think it may be valuable to include non-hispanic observations to then compare wage differences by gender and ethnicity
