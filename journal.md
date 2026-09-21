@@ -74,5 +74,10 @@
 - I think it may be valuable to include non-Hispanic observations to then compare wage differences by gender and ethnicity
 
 ## 9/21/26
+### TO-DO
 - [ ] do a regression including non-Hispanics to see if gender difference is affected
 - [ ] make an interaction between sex and Hispanic origin, to see effect of Hispanic on sex
+
+### Notes:
+- I edited gaston_1 to have a cleaned csv (gaston_OA.csv) that does not exclude non-Hispanics, so that I can do the previously mentioned analysis
+- 
