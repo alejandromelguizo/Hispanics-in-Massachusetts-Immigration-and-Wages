@@ -80,4 +80,5 @@
 
 ### Notes:
 - I edited gaston_1 to have a cleaned csv (gaston_OA.csv) that does not exclude non-Hispanics, so that I can do the previously mentioned analysis
-- 
+- I am running out of room on this office PC, and running into errors with the lack of space, the python jupyter nb kernel crashed and the files are getting moved around.
+    - I think I should bring my laptop and work from that. 
