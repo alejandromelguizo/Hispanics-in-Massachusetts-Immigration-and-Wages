@@ -71,4 +71,8 @@
 - [ ] add variables one at a time to keep track of multi-collinearity
 
 ## 9/16/26
-- I think it may be valuable to include non-hispanic observations to then compare wage differences by gender and ethnicity
+- I think it may be valuable to include non-Hispanic observations to then compare wage differences by gender and ethnicity
+
+## 9/21/26
+- [ ] do a regression including non-Hispanics to see if gender difference is affected
+- [ ] make an interaction between sex and Hispanic origin, to see effect of Hispanic on sex
